@@ -1,0 +1,21 @@
+[
+  {
+    "totalPremium": 1000,
+    "debitOrder": {
+      "day": "1",
+      "amount": 10
+    },
+    "id": "5d726440-a2cb-4d85-ac76-21a5295b002b",
+    "disabilityCover": 1000000,
+    "disabilityPremium": 100,
+    "coverStartDate": "2019-09-25",
+    "incomeProtectionPremium": 300,
+    "incomeProtectionCover": 3000000,
+    "criticalIllnessCover": 2000000,
+    "criticalIllnessPremium": 200,
+    "label": "New Life Insurance",
+    "lifeCover": 4000000,
+    "lifePremium": 400,
+    "actionType": "new-life-insurance"
+  }
+]
